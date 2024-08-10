@@ -1,0 +1,175 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.6">
+  <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
+    <mxGraphModel dx="1405" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8962rQQDY3VNNf6We3Pp-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="11" y="9" width="1259" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-3" value="https://translation.giulliano.me" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="10" y="110" width="1240" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-6" value="Output type" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=10;spacingLeft=10" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="1028" y="130" width="90" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-7" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" parent="8962rQQDY3VNNf6We3Pp-6" vertex="1">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-10" value="Voices" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=10;spacingLeft=10" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="908" y="130" width="90" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-11" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" parent="8962rQQDY3VNNf6We3Pp-10" vertex="1">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-12" value="Language" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=10;spacingLeft=10" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="788" y="130" width="90" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-13" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" parent="8962rQQDY3VNNf6We3Pp-12" vertex="1">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-14" value="Generate" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="1146" y="127" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-16" value="Video Translations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="59" y="135" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-17" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.video_conversation;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="420" y="320" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-30" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="329" y="1221" width="581" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-31" value="Download video" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+          <mxGeometry x="4" width="153.57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-32" value="Download audio" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+          <mxGeometry x="145.24999999999997" width="145.24999999999997" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-33" value="Download texts" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+          <mxGeometry x="290.49999999999994" width="145.24999999999997" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8962rQQDY3VNNf6We3Pp-34" value="Upload video" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+          <mxGeometry x="435.75" width="145.24999999999997" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="seymav8gBYocV3_De4xC-2" value="d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=37;fontFamily=Tahoma;fillColor=#008CFF;fontColor=#FFFFFF;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
+          <mxGeometry x="19" y="115" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-1" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="9" y="710" width="520" height="422" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-1">
+          <mxGeometry width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-3" value="time frame" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" vertex="1" parent="61xK0255PhLL7QsUH4Mn-2">
+          <mxGeometry width="110" height="110" as="geometry">
+            <mxRectangle width="110" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-4" value="Original" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" vertex="1" parent="61xK0255PhLL7QsUH4Mn-2">
+          <mxGeometry x="110" width="410" height="110" as="geometry">
+            <mxRectangle width="410" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-1">
+          <mxGeometry y="110" width="520" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-6" value="00:01" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-5">
+          <mxGeometry width="110" height="154" as="geometry">
+            <mxRectangle width="110" height="154" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-7" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 11px; line-height: normal; font-family: Arial; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;I would love to say welcome to all of our campuses and all of you who are joining us online. Today, we&#39;re kicking off a brand new message series called The Better Way, and it&#39;s great to be back. Stacie and I had the privilege of having five weeks off of teaching and preaching. We got to spend a lot of time. We&#39;re still around some, but we got to spend a lot of time. We traveled and visited her family in South Carolina, my family in Michigan. We went on a cruise together and my oldest caveman said, &quot; I&#39;m a cruise guy.&quot; So that was cool.&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-5">
+          <mxGeometry x="110" width="410" height="154" as="geometry">
+            <mxRectangle width="410" height="154" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-1">
+          <mxGeometry y="264" width="520" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-9" value="00:33" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-8">
+          <mxGeometry width="110" height="158" as="geometry">
+            <mxRectangle width="110" height="158" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-10" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 11px; line-height: normal; font-family: Arial; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;And then this last week, I don&#39;t want to make you jealous, but I want to give you a picture of what I got to do this last week. I was in a cabin in the woods. This is a view right here. You&#39;ll see it. And this is just a picture, beautiful place all around in the middle of the woods and with this beautiful canyon. And I went there, Stacie came part of the week. A couple of our guys from staff came the second part of the week and I went really just to ask God to give me fresh vision for this next season, both for our church and for my family.&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-8">
+          <mxGeometry x="110" width="410" height="158" as="geometry">
+            <mxRectangle width="410" height="158" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-12" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="529" y="710" width="720" height="422" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-12">
+          <mxGeometry width="720" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-14" value="German" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" vertex="1" parent="61xK0255PhLL7QsUH4Mn-13">
+          <mxGeometry width="550" height="110" as="geometry">
+            <mxRectangle width="550" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-15" value="Actions" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" vertex="1" parent="61xK0255PhLL7QsUH4Mn-13">
+          <mxGeometry x="550" width="170" height="110" as="geometry">
+            <mxRectangle width="170" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-12">
+          <mxGeometry y="110" width="720" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-17" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 14.5px; line-height: normal; font-family: Arial; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(0, 0, 0);&quot;&gt;Ich möchte alle unsere Standorte begrüßen und auch alle, die online dabei sind. Heute beginnen wir eine brandneue Predigtreihe mit dem Titel „Der bessere Weg“, und es ist toll, wieder hier zu sein. Stacie und ich hatten das Privileg, fünf Wochen lang nicht frei zu haben. Wir haben viel Zeit miteinander verbracht. Wir sind immer noch ein bisschen unterwegs, aber wir haben viel Zeit miteinander verbracht. Wir sind gereist und haben ihre Familie in South Carolina und meine Familie in Michigan besucht. Wir haben zusammen eine Kreuzfahrt gemacht und mein ältester Sohn meinte: „Ich bin ein Kreuzfahrt-Typ.“ Das war also cool.&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-16">
+          <mxGeometry width="550" height="154" as="geometry">
+            <mxRectangle width="550" height="154" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-16">
+          <mxGeometry x="550" width="170" height="154" as="geometry">
+            <mxRectangle width="170" height="154" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-12">
+          <mxGeometry y="264" width="720" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-20" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 14.5px; line-height: normal; font-family: Arial; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(0, 0, 0);&quot;&gt;Und dann diese letzte Woche, ich will euch nicht neidisch machen, aber ich möchte euch ein Bild davon zeigen, was ich in der vergangenen Woche machen durfte. Ich war in einer Hütte im Wald. Das hier war meine Aussicht. Ihr könnt sie gleich sehen. Und das ist nur ein Bild, ein wunderschöner Ort mitten im Wald und mit dieser wunderschönen Schlucht. Ich war dort, und Stacie kam einen Teil der Woche. Ein paar unserer Mitarbeiter kamen für den zweiten Teil der Woche, und ich bin wirklich nur hingefahren, um Gott zu bitten, mir eine neue Vision für die nächste Zeit zu geben, sowohl für unsere Gemeinde als auch für meine Familie.&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-19">
+          <mxGeometry width="550" height="158" as="geometry">
+            <mxRectangle width="550" height="158" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="61xK0255PhLL7QsUH4Mn-19">
+          <mxGeometry x="550" width="170" height="158" as="geometry">
+            <mxRectangle width="170" height="158" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-65" value="Regenerate" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1119" y="840" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-66" value="Regenerate" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1119" y="995" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-67" value="Play" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1119" y="881" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-68" value="Play" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1119" y="1037" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-69" value="Download" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1119" y="923" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="61xK0255PhLL7QsUH4Mn-117" value="Download" style="rounded=1;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;fillColor=#008CFF;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+          <mxGeometry x="1119" y="1080" width="86" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
